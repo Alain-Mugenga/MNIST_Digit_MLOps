@@ -1,0 +1,7 @@
+.venv
+.git
+storage
+results
+notebook
+__pycache__
+*.zip
